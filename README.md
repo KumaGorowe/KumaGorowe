@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**KumaGorowe/KumaGorowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## syumai
 
-Here are some ideas to get you started:
+![syumai](https://syum-ai.syumai.workers.dev/image/random?type=svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- This URL is broken because of DNS issue: ![syumai](https://syum.ai/image/random?type=svg) -->
+
+### Profile
+
+- Job: Web application developer
+- Skills: Go, JavaScript, TypeScript, Ruby
+- Works: https://syum.ai
+- Twitter: [@\_\_syumai](https://twitter.com/__syumai)
